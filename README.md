@@ -4,6 +4,10 @@ A simple console based renderer designed to draw simple shapes and translate or 
 
 ![Thumbnail](/images/thumbnail.png)
 
+## Example
+
+Inside Main.cpp is an example of how the console renderer can be used to draw each type of shape to the screen as well as rotate and translate it.
+
 ## How to use
 
 To use the console renderer create an instance of the console renderer class specifying the desired width and height of the grid to be drawn. There is also a third optional parameter which sets the character to be used to represent points on the grid.
